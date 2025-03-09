@@ -25,3 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define QUICK_TAP_TERM 0
 //#define TAPPING_TERM 100
 // #define RGB_MATRIX_ENABLE NO
+
+// OLED
+#define OLED_BRIGHTNESS 16
