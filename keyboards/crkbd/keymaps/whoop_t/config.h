@@ -27,4 +27,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define RGB_MATRIX_ENABLE NO
 
 // OLED
-#define OLED_BRIGHTNESS 16
+#define OLED_BRIGHTNESS 0
